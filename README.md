@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+This is my first commit. Just get started learning GitHub
